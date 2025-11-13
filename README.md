@@ -1,8 +1,8 @@
-# 💫 About Me:
+# ☕ About Me:
 
 Enterprise Software Engineer and Technical Leader specializing in full-stack development and scalable system architecture. Currently leading enterprise development at Elevate You Enterprise, where I architect and build production-grade CRM systems that power solar sales operations across multiple teams and regions. 
 
-With hands-on experience in modern web technologies, cloud infrastructure, and enterprise software patterns, I transform complex business requirements into robust, maintainable solutions. Passionate about clean code, test-driven development, and building systems that scale. Strong foundation in software engineering principles, with expertise in React, Firebase, and cloud-native architectures.
+With hands-on experience in modern web technologies, cloud infrastructure, and enterprise software patterns, I transform complex business requirements into robust, maintainable solutions. Passionate about clean code, test-driven development, and building systems that scale. Strong foundation in software engineering principles, with expertise in React, Firebase, and cloud-native architectures. ☕ When I'm not coding, you'll find me tending to my plants 🌱 and brewing the perfect cup of coffee.
 
 **Current Focus**: Building and scaling Elevate CRM - a comprehensive enterprise CRM platform handling deal management, commission tracking, team coordination, and real-time analytics for distributed sales teams.
 
@@ -55,5 +55,9 @@ Leading development of a comprehensive CRM system for solar sales teams, featuri
 **Tech Stack**: React, Redux, Firebase, Tailwind CSS, Node.js, Express
 
 ---
+
+**Fueled by coffee ☕ and surrounded by plants 🌱**
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
