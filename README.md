@@ -1,63 +1,82 @@
-# ☕ About Me:
+<div align="center">
 
-Enterprise Software Engineer and Technical Leader specializing in full-stack development and scalable system architecture. Currently leading enterprise development at Elevate You Enterprise, where I architect and build production-grade CRM systems that power solar sales operations across multiple teams and regions. 
+<img src="https://64.media.tumblr.com/d73eba42854dac9ab897193cd96c9344/7b3d0cfb059186e6-3f/s1280x1920/383af36c2c092df488af4787fe1f82d3c5f634ca.gif" width="100%" alt="header gif"/>
 
-With hands-on experience in modern web technologies, cloud infrastructure, and enterprise software patterns, I transform complex business requirements into robust, maintainable solutions. Passionate about clean code, test-driven development, and building systems that scale. Strong foundation in software engineering principles, with expertise in React, Firebase, and cloud-native architectures. ☕ When I'm not coding, you'll find me vibing out gaming 🌱 and brewing the perfect cup of coffee.
+# Chandler King
 
-**Current Focus**: Building and scaling Elevate CRM - a comprehensive enterprise CRM platform handling deal management, commission tracking, team coordination, and real-time analytics for distributed sales teams.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Chandler+King+%7C+aka+kingcappuccinoo;CEO+of+Sozo+Tech;Coffee+%E2%98%95+Coding+%F0%9F%92%BB+Gaming+%F0%9F%8E%AE+Sports+%E2%9A%BD;Building+clean%2C+reliable+products" alt="Typing SVG"/>
 
-## 🌐 Socials:
+<br/>
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandler.t.king) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-kingct19-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kingct19)
+[![Sozo Tech](https://img.shields.io/badge/Sozo%20Tech-CEO-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](#)
 
-# 💻 Tech Stack:
-
-## Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## Backend & Cloud
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## Databases & Storage
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Testing & Quality
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/-Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-## Design & Prototyping
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## Additional Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kingct19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kingct19&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingct19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🚀 Current Projects
-
-## Elevate CRM - Enterprise Sales Management Platform
-Leading development of a comprehensive CRM system for solar sales teams, featuring:
-- **Deal Management**: Complete lifecycle tracking from lead to installation
-- **Commission Tracking**: Real-time calculations and automated payouts
-- **Team Management**: Multi-office, multi-team organizational structure
-- **Training System**: Video-based learning with progress tracking
-- **Real-time Analytics**: Dashboard with live metrics and reporting
-- **Mobile-First Design**: Optimized for field sales teams
-
-**Tech Stack**: React, Redux, Firebase, Tailwind CSS, Node.js, Express
+</div>
 
 ---
 
-**Fueled by coffee ☕ and surrounded by plants 🌱**
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="240" src="https://i.pinimg.com/originals/76/57/a7/7657a7314e4842f96bd61587ce12f222.gif" alt="aesthetic gif"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Name: **Chandler King** (`kingcappuccinoo`)
+- GitHub: **[`kingct19`](https://github.com/kingct19)**
+- Role: **CEO of Sozo Tech**
+- I love: **coffee, coding, gaming, and sports**
+- Focus: building clean systems and shipping useful products
+
+<br clear="right"/>
+
+---
+
+
+## Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kingct19&show_icons=true&theme=transparent&title_color=ffffff&text_color=e5e7eb&icon_color=ffffff&border_color=30363d&border_radius=12&include_all_commits=true" alt="stats"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=kingct19&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&border=30363d" alt="streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kingct19&bg_color=000000&color=ffffff&line=ffffff&point=9ca3af&area=true&hide_border=true" alt="activity graph"/>
+
+</div>
+
+---
+
+## Vibes
+
+<div align="center">
+
+<img src="https://64.media.tumblr.com/d73eba42854dac9ab897193cd96c9344/7b3d0cfb059186e6-3f/s1280x1920/383af36c2c092df488af4787fe1f82d3c5f634ca.gif" width="32%" alt="vibe 1"/>
+<img src="https://i.pinimg.com/originals/76/57/a7/7657a7314e4842f96bd61587ce12f222.gif" width="32%" alt="vibe 2"/>
+<img src="https://i.pinimg.com/originals/92/98/b8/9298b8aa90e9bc71a6162878ee24cbeb.gif" width="32%" alt="vibe 3"/>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=kingct19&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built by Chandler King ☕ | CEO @ Sozo Tech</sub>
+</div>
